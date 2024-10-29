@@ -15,5 +15,8 @@
     "url": "https://github.com/UladzimirKhilko/Food/issues"
   },
   "homepage": "https://github.com/UladzimirKhilko/Food#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
 }
